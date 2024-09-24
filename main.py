@@ -2,7 +2,7 @@
 
 import random
 
-print('Welcome to the PyPassword Generator!')
+print('Welcome to the Password Generator!')
 
 alphabets = 'abcdefghijklmnopqrstuvwxyz'
 
